@@ -1,0 +1,119 @@
+
+
+
+#lists-lang{
+
+  font-size: 15px;
+  text-align: center;
+}
+ .name{
+ text-transform: uppercase;
+font-size: 35px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin: 0px auto;
+display: flex;
+
+ }
+ #contact{
+display: flex;
+
+ }
+
+
+
+p{
+  padding: 2px;
+  
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#projects{
+  font-size: 22px;
+}
+
+
+
+body {
+  margin: 0px auto;
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: var(--bs-body-bg);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+
+
+
+.social-icons .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+}
+.social-icons .social-icon:last-child {
+  margin-right: 0;
+}
+.social-icons .social-icon:hover {
+  background-color: #ece1be;
+}
+
+.dev-icons {
+  font-size: 3rem;
+}
+
+
+.icon{
+  color: rgb(52, 60, 62);
+  padding: 3px;
+
+}
+.icon:hover{
+  color: rgb(32, 35, 32);
+  border: 1px solid;
+  box-shadow:2px 2px;
+}
+.heading{
+  padding: 10px 10px;
+}
+
+.list-languages{
+
+  padding: 3% 10%;
+}
+.icons{
+  padding: 2% 4%;
+
+}
+.certificate{
+  color: rgb(13, 11, 11);
+  text-decoration: none;
+}
+
+td{
+  padding: 7px;
+  float: left;
+  font-size: 14px;
+  
+}
+.portfolio{
+  color: rgb(13, 11, 11);
+}
+.project-link{
+  text-decoration: none;
+  color: black;
+}
+.project-link:hover{
+  text-decoration: none;
+ 
+}
